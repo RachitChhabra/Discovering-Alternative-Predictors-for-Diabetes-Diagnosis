@@ -1,0 +1,1 @@
+{"batch_size": 16, "learning_rate": 0.01, "hidden_size": 1000, "dropout_rate": 0.85}
